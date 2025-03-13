@@ -4,8 +4,9 @@
 
 Templater is a basic program that does string-replacement around brackets,
 similar to how f-strings work in Python. While many tools like this already exist,
-I found it helpful that it was a simple Python script (with 0 dependencies)
-I also like having all these templates in one folder to be reused anywhere.
+I found it helpful that it was a simple Python script (with 0 dependencies). 
+I also like having all these templates in one folder to be reused anywhere without 
+tying to a specific platform.
 
 ## Installation
 

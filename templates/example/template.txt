@@ -1,0 +1,8 @@
+Hello {name}!
+
+How are you doing today?
+
+I am working at {myCompany}
+
+Thanks,
+{myName}

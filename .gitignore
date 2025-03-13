@@ -1,0 +1,14 @@
+*
+
+!run.py
+!.gitignore
+!README.md
+
+
+!templates
+templates/*
+!templates/example/
+
+templates/example/*
+!templates/example/template.txt
+
